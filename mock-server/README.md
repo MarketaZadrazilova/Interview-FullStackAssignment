@@ -5,8 +5,6 @@
 3. Server should return data from db.json by getting from /services endpoint (GET).
 4. Add endpoint to add service to db.json (PUT/POST).
 5. Log or request to endpoints to log file.
-
-Bonus:
 6. Protect PUT/POST endpoint by JWT.
 
 
